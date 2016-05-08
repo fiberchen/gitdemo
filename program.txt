@@ -5,5 +5,9 @@ main()
 
 mothod()
 {
+	printf my is cybcyb!
+}
+show()
+{
 	printf my is cyb!
 }
