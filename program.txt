@@ -2,3 +2,8 @@ main()
 {
 	hello world!
 }
+
+mothod()
+{
+	printf my is cyb!
+}
